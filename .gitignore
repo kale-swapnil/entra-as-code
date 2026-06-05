@@ -1,3 +1,4 @@
 terraform.tfvars
 notes.md
 .env
+.terraform/
