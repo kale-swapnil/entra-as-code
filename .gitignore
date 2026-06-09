@@ -2,3 +2,11 @@ terraform.tfvars
 notes.md
 .env
 .terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfstate.backup
+prod.tfvars
+dev.tfvars
+terraform.tfplan
+crash.log
+*.http

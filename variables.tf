@@ -14,3 +14,7 @@ variable "client_secret" {
 variable "deployment_unique_name" {
   type = string
 }
+
+variable "deployment_env_name" {
+  type = string
+}
